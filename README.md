@@ -1,4 +1,4 @@
-# XXXXXXXXXXXXXXXXX
+# Auto-trigger-send-sms
 
 # Mercer Marketing Cloud Journey Builder Custom Activity 
 > This custom activity for Mercer's Marketing Cloud Journey Builder Custom Activity. It is hosted on Heroku and running on NodeJS
