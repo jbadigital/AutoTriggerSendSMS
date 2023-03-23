@@ -104,6 +104,7 @@ define([
             {"Communication_Name":"{{Event."+ eventDefinitionKey + ".Communication_Name}}"},
             {"Source__C":"{{Event."+ eventDefinitionKey + ".Source__C}}"},
             {"Type__C_Desc":"{{Event."+ eventDefinitionKey + ".Type__C_Desc}}"},
+	    {"DE_Key":"{{Event."+ eventDefinitionKey + ".DE_Key}}"},
             {"TestRecord":"{{Event."+ eventDefinitionKey + ".TestRecord}}"},
             {"DEROWID":"{{Event."+ eventDefinitionKey + "._customObjectKey}}"},
             {"TriggeredSendExternalKey":"{{Event."+ eventDefinitionKey + ".TriggeredSendExternalKey}}"}];
