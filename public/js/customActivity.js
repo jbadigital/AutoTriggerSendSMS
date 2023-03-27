@@ -79,7 +79,7 @@ define([
             {"FUNDID":"{{Event."+ eventDefinitionKey + ".FUNDID}}"},
             {"template":"{{Event."+ eventDefinitionKey + ".template}}"},
             {"TemplateType":"{{Event."+ eventDefinitionKey + ".TemplateType}}"},
-            {"Communication_Name":"{{Event."+ eventDefinitionKey + ".Communication_Name}}"}
+            {"Communication_Name":"{{Event."+ eventDefinitionKey + ".Communication_Name}}"}];
            
         
         payload['metaData'].isConfigured = true;
